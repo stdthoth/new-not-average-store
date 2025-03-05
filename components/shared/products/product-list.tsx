@@ -1,4 +1,3 @@
-import { title } from "process";
 import ProductsCard from "./product-card";
 import { Product } from "@/types";
 
